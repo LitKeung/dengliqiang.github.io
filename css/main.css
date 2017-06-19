@@ -1001,6 +1001,7 @@ pre .javascript .function {
   font-size: 20px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  letter-spacing: 1px;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1315,7 +1316,7 @@ pre .javascript .function {
   font-size: 26px;
   text-align: center;
   word-break: break-word;
-  font-weight: 400;
+  font-weight: 300;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title {
@@ -1678,7 +1679,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #aa17fe;
+  background: #dd5840;
 }
 .links-of-blogroll {
   font-size: 13px;
